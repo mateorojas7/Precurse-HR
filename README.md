@@ -1,2 +1,1 @@
-# Precurse-HR
-Este repositorio es del modulo 2 de el precurso de henrry
+Este proyecto es una prueba de como crar un repositorio 
